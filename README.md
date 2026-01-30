@@ -1,7 +1,12 @@
 # Memory Pool
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![GitHub issues](https://img.shields.io/github/issues/OWNER/REPO)](https://github.com/xjn2005/memory-pool/issues) [![GitHub stars](https://img.shields.io/github/stars/xjn2005/memory-pool?style=social)](https://github.com/xjn2005/memory-pool/stargazers) 
-<p align="right">[简体中文](README.md) | [English](README_en.md)</p>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![GitHub issues](https://img.shields.io/github/issues/xjn2005/memory-pool)](https://github.com/xjn2005/memory-pool/issues) [![GitHub stars](https://img.shields.io/github/stars/xjn2005/memory-pool?style=social)](https://github.com/xjn2005/memory-pool/stargazers) 
+
+<p align="left">
+  <a href="README.md">简体中文</a> | 
+  <a href="README_en.md">English</a>
+</p>
+
 
 一个用 C++17 编写的固定大小内存池实现，适合高效管理大量小对象频繁分配/释放的场景。
 
