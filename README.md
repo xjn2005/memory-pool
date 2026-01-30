@@ -1,6 +1,11 @@
 # Memory Pool
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![GitHub issues](https://img.shields.io/github/issues/xjn2005/memory-pool?color=orange)](https://github.com/xjn2005/memory-pool/issues) [![GitHub stars](https://img.shields.io/github/stars/xjn2005/memory-pool?style=social)](https://github.com/xjn2005/memory-pool/stargazers) 
+![C++](https://img.shields.io/badge/C++-17-00599C?logo=c%2B%2B&logoColor=white)
+![build](https://img.shields.io/badge/build-CMake-064F8C?logo=cmake&logoColor=white)
+![status](https://img.shields.io/badge/status-actively--maintained-2E8B57)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+
 
 <p align="left">
   <a href="README.md">简体中文</a> | 
