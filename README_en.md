@@ -1,6 +1,6 @@
 # Memory Pool
 
-[![C++](https://img.shields.io/badge/C++-17-00599C?logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-17-00599C?logo=c%2B%2B&logoColor=white)
 ![build](https://img.shields.io/badge/build-CMake-064F8C?logo=cmake&logoColor=white)
 ![status](https://img.shields.io/badge/status-actively--maintained-2E8B57)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
